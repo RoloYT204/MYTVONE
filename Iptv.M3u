@@ -1,0 +1,47 @@
+#EXTM3U
+
+
+#EXTINF:-1,"tvg-id="winsports.co" tvg-name="CO | Win Sports Op3" tvg-logo="http://51.222.43.170:8001/images/509a418e24de822fa42d205f7f92a46d.png" group-title="DEPORTES",CO | Win Sports Op3
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/1265
+
+#EXTINF:-1,"tvg-id="winsports.co" tvg-name="CO | Win Sports Op1" tvg-logo="http://51.222.43.170:36995/images/509a418e24de822fa42d205f7f92a46d.png" group-title="COLOMBIA",CO | Win Sports Op1
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/426
+
+#EXTINF:-1,"tvg-id="winsports.co" tvg-name="CO | Win Sports Op2" tvg-logo="http://51.222.43.170:8001/images/509a418e24de822fa42d205f7f92a46d.png" group-title="COLOMBIA",CO | Win Sports Op2
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/427
+
+#EXTINF:-1,"tvg-id="winsportsplus.co" tvg-name="CO | Win Sports + SD" tvg-logo="http://51.222.43.170:8001/images/6da5a7bfd6cd350ffc5c44a974741cfc.png" group-title="COLOMBIA",CO | Win Sports + SD
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/25155
+
+#EXTINF:-1,"tvg-id="winsportsplus.co" tvg-name="CO | Win Sports + HD" tvg-logo="http://51.222.43.170:36995/images/6da5a7bfd6cd350ffc5c44a974741cfc.png" group-title="COLOMBIA",CO | Win Sports + HD
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/25156
+
+#EXTINF:-1,tvg-id="" tvg-name="CO | Win Sports + FHD" tvg-logo="http://51.222.43.170:36995/images/6da5a7bfd6cd350ffc5c44a974741cfc.png" group-title="COLOMBIA",CO | Win Sports + FHD
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/252516
+
+#EXTINF:-1, tvg-id="" tvg-name="CO | Win Sports + *" tvg-logo="http://51.222.43.170:36995/images/1e188bb2344ccc5378ce68a64d36a584.jpg" group-title="COLOMBIA",CO | Win Sports + *
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/289739
+
+#EXTINF:-1, tvg-id="" tvg-name="CO | Win Sports + **" tvg-logo="http://51.222.43.170:36995/images/1e188bb2344ccc5378ce68a64d36a584.jpg" group-title="COLOMBIA",CO | Win Sports + **
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/289740
+
+#EXTINF:-1,tvg-id="" tvg-name="CO | Win Sports + ***" tvg-logo="http://51.222.43.170:36995/images/1e188bb2344ccc5378ce68a64d36a584.jpg" group-title="COLOMBIA",CO | Win Sports + ***
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/289741
+
+#EXTINF:-1,tvg-id="" tvg-name="CO | Win Sports + ****" tvg-logo="http://51.222.43.170:36995/images/1e188bb2344ccc5378ce68a64d36a584.jpg" group-title="COLOMBIA",CO | Win Sports + ****
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/289742
+
+#EXTINF:-1, tvg-id="" tvg-name="BRASIL | Espn 2 HD" tvg-logo="http://51.222.43.170:36995/images/2c43f34598080c3ad9331c4f8af3a144.png" group-title="BRASIL",BRASIL | Espn 2 HD
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/240727
+
+#EXTINF:-1,tvg-id="espn3.mx" tvg-name="SD | Espn 3 MX" tvg-logo="http://51.222.43.170:36995/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="CANALES SD (Poco Internet)",SD | Espn 3 MX
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/260517
+
+#EXTINF:-1, tvg-id="espn2.mx" tvg-name="SD | ESPN 2" tvg-logo="http://51.222.43.170:8001/images/2c43f34598080c3ad9331c4f8af3a144.png" group-title="CANALES SD (Poco Internet)",SD | ESPN 2
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/260580
+
+#EXTINF:-1,tvg-id="" tvg-name="SD | ESPN 2 SD" tvg-logo="http://51.222.43.170:36995/images/7b69fb58de1147098509430d0f498d6f.png" group-title="CANALES SD (Poco Internet)",SD | ESPN 2 SD
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/262172
+
+#EXTINF:-1,tvg-id="" tvg-name="SD | Fox Sports 3" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 3
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/260598
